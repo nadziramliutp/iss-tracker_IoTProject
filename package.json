@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadziramliutp/iss-tracker_IoTProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nadziramliutp/iss-tracker_IoTProject/issues"
+  },
+  "homepage": "https://github.com/nadziramliutp/iss-tracker_IoTProject#readme"
 }
